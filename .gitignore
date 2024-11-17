@@ -168,3 +168,6 @@ etc/clusto*.conf
 # tmux
 !.config/tmux
 !.config/tmux/tmux.conf
+
+# nvim
+!.config/nvim
