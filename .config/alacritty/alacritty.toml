@@ -1,4 +1,8 @@
 [general]
 import = [
-    "~/.config/alacritty/themes/themes/moonfly.toml"
+    "~/.config/alacritty/alacritty-theme/themes/moonfly.toml"
 ]
+
+[window.dimensions]
+columns = 133
+lines = 30
