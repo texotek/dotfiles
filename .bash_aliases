@@ -26,4 +26,3 @@ alias vi="nvim"
 alias vim="nvim"
 
 alias open="xdg-open"
-alias cat="bat"
