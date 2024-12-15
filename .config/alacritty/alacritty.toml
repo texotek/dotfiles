@@ -1,6 +1,6 @@
 [general]
 import = [
-    "~/.config/alacritty/alacritty-theme/themes/moonfly.toml"
+    "~/.config/alacritty/alacritty-theme/themes/pastel_dark.toml"
 ]
 
 [font]

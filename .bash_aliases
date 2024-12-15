@@ -1,6 +1,6 @@
 alias ls='ls --color=auto'
-alias la='ls -la'
-alias ll="ls -l"
+alias la='ls -a'
+alias ll="ls -la"
 alias l.='ls -d .* --color=auto'
 
 ## get rid of command not found ##
@@ -26,3 +26,5 @@ alias vi="nvim"
 alias vim="nvim"
 
 alias open="xdg-open"
+
+alias code="codium"

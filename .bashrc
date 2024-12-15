@@ -14,7 +14,7 @@ export PATH
 
 export EDITOR="/usr/bin/nvim"
 export PICO_SDK_PATH=/home/texotek/.pico-sdk
-export PS1='[\[\e[92m\]\u\[\e[0m\]@\H \[\e[38;5;33m\]\w\[\e[0m\] ]\\$ '
+export PS1='[\u@\H \W ]\\$ '
 
 source ~/.bash_aliases
 
