@@ -36,5 +36,10 @@
   "base_keymap": "VSCode",
   "vim": {
     "use_system_clipboard": "on_yank"
-  }
+  },
+  "format_on_save": "off",
+  "features": {
+    // Which inline completion provider to use.
+    "inline_completion_provider": "none"
+  },
 }
