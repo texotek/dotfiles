@@ -171,3 +171,7 @@ etc/clusto*.conf
 
 # nvim
 !.config/nvim
+
+# zed
+!.config/zed
+!.config/zed/settings.json
