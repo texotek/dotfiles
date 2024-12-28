@@ -175,3 +175,4 @@ etc/clusto*.conf
 # zed
 !.config/zed
 !.config/zed/settings.json
+!.config/zed/keymap.json
