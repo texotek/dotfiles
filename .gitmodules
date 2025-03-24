@@ -1,3 +1,6 @@
 [submodule ".config/nvim"]
 	path = .config/nvim
 	url = ssh://git@github.com:/texotek/nvim
+[submodule ".config/zsh"]
+    path = .config/zsh
+    url = ssh://git@github.com:/texotek/zsh
